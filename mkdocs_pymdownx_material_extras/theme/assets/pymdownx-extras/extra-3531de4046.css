@@ -20,10 +20,12 @@
 	--md-code-hl-special-color:hsl(265deg, 89%, 78%);	
 	--md-code-hl-number-color:hsl(135deg, 94%, 65%);	
 	--md-code-hl-keyword-color:#ff1744;		
-	--md-code-hl-name-color:hsl(60deg, 30%, 96%);			
+	--md-code-hl-name-color:hsl(135deg, 94%, 65%);			
 	--md-code-hl-constant-color:hsl(135deg, 94%, 65%);	
 	--md-code-hl-function-color:hsl(135deg, 94%, 65%);
 	--md-code-hl-comment-color: hsl(191deg, 97%, 77%);
+
+	--md-code-hl-tag-color:#ff1744;		
 
 
 
@@ -33,7 +35,7 @@
 
 
 					 --md-code-hl-color:hsl(231deg, 25%, 25%);
-					 --md-code-hl-entity-color:hsl(135deg, 94%, 65%);--md-code-hl-tag-color:hsl(326deg, 100%, 74%);--md-code-hl-namespace-color:hsl(60deg, 30%, 96%);--md-code-hl-builtin-color:hsl(191deg, 97%, 77%);--md-code-hl-class-color:hsl(191deg, 97%, 77%);--md-code-special-bg-color:#1c1e26;--md-code-alternate-bg-color:#3d3e49;--md-code-link-bg-color:#364653;--md-typeset-a-color:hsl(191deg, 97%, 77%);--md-typeset-mark-color:#6e7252;--md-typeset-del-color:#734568;--md-typeset-ins-color:#36724e;--md-progress-stripe:var(--md-default-bg-color--lightest);--md-progress-100:hsl(135deg, 94%, 65%);--md-progress-80:hsl(135deg, 92%, 79%);--md-progress-60:hsl(65deg, 92%, 76%);--md-progress-40:hsl(31deg, 100%, 71%);--md-progress-20:hsl(326deg, 100%, 74%);--md-progress-0:hsl(0deg, 100%, 67%);--md-typeset-kbd-color:var(--md-default-fg-color--lightest);--md-typeset-kbd-border-color:var(--md-default-bg-color--ultra-dark);--md-typeset-kbd-accent-color:var(--md-default-fg-color--lighter)}
+					 --md-code-hl-entity-color:hsl(135deg, 94%, 65%);--md-code-hl-namespace-color:hsl(60deg, 30%, 96%);--md-code-hl-builtin-color:hsl(191deg, 97%, 77%);--md-code-hl-class-color:hsl(191deg, 97%, 77%);--md-code-special-bg-color:#1c1e26;--md-code-alternate-bg-color:#3d3e49;--md-code-link-bg-color:#364653;--md-typeset-a-color:hsl(191deg, 97%, 77%);--md-typeset-mark-color:#6e7252;--md-typeset-del-color:#734568;--md-typeset-ins-color:#36724e;--md-progress-stripe:var(--md-default-bg-color--lightest);--md-progress-100:hsl(135deg, 94%, 65%);--md-progress-80:hsl(135deg, 92%, 79%);--md-progress-60:hsl(65deg, 92%, 76%);--md-progress-40:hsl(31deg, 100%, 71%);--md-progress-20:hsl(326deg, 100%, 74%);--md-progress-0:hsl(0deg, 100%, 67%);--md-typeset-kbd-color:var(--md-default-fg-color--lightest);--md-typeset-kbd-border-color:var(--md-default-bg-color--ultra-dark);--md-typeset-kbd-accent-color:var(--md-default-fg-color--lighter)}
 
 [data-md-color-scheme=dracula] :not([data-md-color-scheme])[data-md-color-primary=red],[data-md-color-scheme=dracula][data-md-color-primary=red]{--md-primary-code-bg-color:#47303a;--md-primary-fg-color:hsla(0deg, 100%, 67%, 1);--md-primary-fg-color--transparent:hsla(0deg, 100%, 67%, 0.1);--md-primary-fg-color--light:hsla(0deg, 100%, 72%, 1);--md-primary-fg-color--dark:hsla(0deg, 100%, 62%, 1);--md-primary-bg-color:var(--md-default-bg-color);--md-primary-bg-color--light:var(--md-default-bg-color--light)}
 
